@@ -14,6 +14,8 @@ https://github.com/user-attachments/assets/5191db67-4224-493d-bbe0-c1eb84fc043d
 💻 Code highlighting using Highlight.js for coding answers
 📱 Responsive design (works on desktop & mobile)
 📂 Project Structure
+
+
 AI_chatbot/
 │── app.py                # Flask backend
 │── .env                  # API keys (OpenRouter, Serper, etc.)
@@ -22,6 +24,8 @@ AI_chatbot/
 │── static/
 │    ├── style.css        # Styles
 │    └── script.js        # Client-side logic
+
+
 🛠️ Tech Stack
 Backend: Flask (Python)
 Frontend: HTML, CSS, JavaScript
