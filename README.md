@@ -16,15 +16,6 @@ https://github.com/user-attachments/assets/5191db67-4224-493d-bbe0-c1eb84fc043d
 📂 Project Structure
 
 
-AI_chatbot/
-│── app.py                # Flask backend
-│── .env                  # API keys (OpenRouter, Serper, etc.)
-│── templates/
-│    └── index.html       # Frontend UI
-│── static/
-│    ├── style.css        # Styles
-│    └── script.js        # Client-side logic
-
 
 🛠️ Tech Stack
 Backend: Flask (Python)
